@@ -1,10 +1,10 @@
 import React from 'react';
-import Header from './components/Header';
-import SchoolInfo from './components/SchoolInfo';
-import DirectorInfo from './components/DirectorInfo';
-import Gallery from './components/Gallery';
-import ScienceProjects from './components/ScienceProjects';
-import ToTopButton from './components/ToTopButton'; // Import the new component
+import Header from './src/components/Header';
+import SchoolInfo from './src/components/SchoolInfo';
+import DirectorInfo from './src/components/DirectorInfo';
+import Gallery from './src/components/Gallery';
+import ScienceProjects from './src/components/ScienceProjects';
+import ToTopButton from './src/components/ToTopButton'; // Import the new component
 import './App.css'; // Import main CSS (you can move global styles here if needed)
 
 function App() {
